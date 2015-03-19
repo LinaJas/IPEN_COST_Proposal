@@ -70,7 +70,12 @@ The main added value here is to provide a rich and ongoing point of contact betw
 
 
 ##1.4.2.	In relation to existing efforts at European and/or international level
-Text
+
+###IETF
+
+The IPEN action will link into ongoing privacy work in the IETF. <<details tbd>>
+
+
 
 #2.	IMPACT
 
