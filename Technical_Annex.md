@@ -4,7 +4,10 @@
 ##1.1.1.	Description of the Challenge (Main Aim)
 The IPEN initiative supports the creation of engineer groups working on (re)-usable building blocks, design patterns and other tools for selected Internet use cases where privacy is at stake. 
 
-Participants in IPEN are from different areas such as data protection authorities, academia, open source and business development, and other individuals who are committed to the finding engineering solutions to privacy challenges. The objective of the work should be to integrate data protection and privacy into all phases of the development process, from the requirements phase to production, as it is most appropriate for the development model and the application environment.
+Participants in IPEN are from different areas such as data protection authorities, academia, open source and business development, and other individuals who are committed to the finding engineering solutions to privacy challenges. Broadly,
+we can speak of the technical community (developers, those working in technical standardisation such as with the IETF) and the legal community (those working in regulation such as data protection authorities). While there are of course some who overlap, given the scale of the challenge, there are not enough such peopl and this action aims to provide an ongoing and rich point of contact between these communities.
+
+The objective of the work should be to integrate data protection and privacy into all phases of the development process, from the requirements phase to production, as it is most appropriate for the development model and the application environment.
 
 It supports networking between engineer groups and existing initiatives for engineering privacy into the Internet. This network facilitates exchange in order to coordinate work and avoid duplication, in addition to discussing which privacy oriented use cases should be addressed with priority.
 
@@ -60,8 +63,11 @@ Text
 Text
 
 ##1.4.	Added value of networking 
+
 ##1.4.1.	In relation to the Challenge
-Text
+
+The main added value here is to provide a rich and ongoing point of contact between the technical and legal communities, who have, to date, not had such a venue for collaboration.
+
 
 ##1.4.2.	In relation to existing efforts at European and/or international level
 Text
