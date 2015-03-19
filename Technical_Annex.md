@@ -41,6 +41,11 @@ token export and replay attacks. Introduce this draft to the relevent W3C or IET
 
 Foster the development of protocols and standards for anonymous unlinkable and virtualised network identity. The aim is to give web users control of how much identifiable information is shared. It should, for example, to be possible for users to manage and convey an audience categorisation to a publishers website without being tracked, and for individuals to browse the web anonymously if they wish. 
 
+###Objective
+
+Provide a forum allowing the technical Internet community to interact with data protection authorities and interested privacy researchers, so as to identify potential areas for conflict and potential areas for collaboration. The former may occur if one community embraces a change that is problematic for other communities. The latter could involve identification of areas where all communities recognise the potential for aiming to meet commensurate requirements. Note - the objective here is to identify and discuss such potential conflicts and areas for collaboration - the actual work to resolve conflicts or action collaborations is not intended to be done under the auspisces of this COST action.
+
+
 ##1.2.2.	Capacity-building Objectives
 Text
 
