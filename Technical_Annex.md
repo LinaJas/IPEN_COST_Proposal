@@ -50,7 +50,7 @@ It will also encourage IT specialists to develop privacy friendly solutions and 
 
 ##1.3.	Progress beyond the state-of-the-art and Innovation Potential 
 ##1.3.1.	Description of the state-of-the-art
-Text 
+The internet has grown from its roots in academic and Government sponsered research to become a major factor in the lives of billions of people around the world. The frenetic pace of this development has unfortunately left major components insecure against threats such as mass unwarrented surveillance and predatory commercial profiling. The lack of basic privacy protection components has led to a atmosphere where many business and technical developers do not have the necessary awareness of, and training in, the need for protection of fundemental human rights. 
 
 ##1.3.2.	Progress beyond the state-of-the-art
 Text 
