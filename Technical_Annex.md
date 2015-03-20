@@ -1,20 +1,9 @@
 #1.	S&T EXCELLENCE
 
 ##1.1.	Challenge 
-There is a gap between the technical, legal annd civil society communities that make it harder than it should be to protect and extend individual's fundemental rights such as privacy and security in the online sphere.
-
 ##1.1.1.	Description of the Challenge (Main Aim)
-The IPEN initiative supports the creation of engineer groups working on (re)-usable building blocks, design patterns and other tools for selected Internet use cases where privacy is at stake. 
-
-Participants in IPEN are from different areas such as data protection authorities, academia, open source and business development, and other individuals who are committed to the finding engineering solutions to privacy challenges. Broadly,
-we can speak of the technical community (developers, those working in technical standardisation such as with the IETF, the W3C and the ISO) and the legal community (those working in regulation such as data protection authorities). While there are of course some who overlap, given the scale of the challenge, there are not enough such people and this action aims to provide an ongoing and rich point of contact between these communities.
-
-The objective of the work should be to integrate data protection and privacy into all phases of the development process, from the requirements phase to production, as it is most appropriate for the development model and the application environment.
-
-It supports networking between engineer groups and existing initiatives for engineering privacy into the Internet. This network facilitates exchange in order to coordinate work and avoid duplication, in addition to discussing which privacy oriented use cases should be addressed with priority.
-
-IPEN is building a repository of relevant resources, making its findings and knowledge base accessible to all participants, developers and privacy experts.
-
+There is a gap between the technical, legal annd civil society communities that make it harder than it should be to protect and extend individual's fundemental rights such as privacy and security in the online sphere.
+There are many from different areas such as data protection authorities, academia, open source and business development, and other individuals who are committed to the finding engineering solutions to privacy challenges. Broadly, we can speak of the technical community (developers, those working in technical standardisation such as with the IETF, the W3C and the ISO) and the legal community (those working in regulation such as data protection authorities). While there are of course some who overlap, given the scale of the challenge, there are not enough such people and this action aims to provide an ongoing and rich point of contact between these communities.
 
 
 ##1.1.2.	Relevance and timeliness
@@ -25,14 +14,6 @@ The conception of, and level of interest in, privacy has also changed hugely wit
 
 
 ##1.2.	Objectives
-
-IPEN will serve as a platform for the cooperation and exchange of ideas between Data Protection Authorities (DPAs) and internet engineers. It will encourage IT specialists to develop privacy friendly solutions and to recognise the impact of their technical choices on users' privacy. As a network of privacy experts from the technical, developer and policy communities, IPEN will work on three main tasks:
-
-  - To share information about on-going initiatives and projects addressing privacy-related development needs;
-  - To identify ['use cases'](http://www.techopedia.com/definition/25813/use-case) - where tech engineers identify a series 
-    of steps that will enable them to solve a specific problem - for which privacy can be implemented at the design level.
-  - To launch projects for the development of tools and building-blocks which enable and enhance privacy.
-
 ##1.2.1.	Research Coordination Objectives
 
 IPEN will launch projects for the development of tools and building-blocks which enable and enhance privacy. 
@@ -63,8 +44,9 @@ These projects may be initiatives within Standards Development Organisations suc
 
 
 ##1.2.2.	Capacity-building Objectives
+IPEN will provide a forum allowing the technical Internet community to interact with data protection authorities, internet engineers and interested privacy researchers, so as to identify potential areas for conflict and potential areas for collaboration. The former may occur if one community embraces a change that is problematic for other communities. The latter could involve identification of areas where all communities recognise the potential for aiming to meet commensurate requirements. Note - the objective here is to identify and discuss such potential conflicts and areas for collaboration - the actual work to resolve conflicts or action collaborations is not intended to be done under the auspisces of this COST action.
 
-IPEN will provide a forum allowing the technical Internet community to interact with data protection authorities and interested privacy researchers, so as to identify potential areas for conflict and potential areas for collaboration. The former may occur if one community embraces a change that is problematic for other communities. The latter could involve      identification of areas where all communities recognise the potential for aiming to meet commensurate requirements. Note - the objective here is to identify and discuss such potential conflicts and areas for collaboration - the actual work to resolve conflicts or action collaborations is not intended to be done under the auspisces of this COST action.
+It will also encourage IT specialists to develop privacy friendly solutions and to recognise the impact of their technical choices on users' privacy. Its aim is to integrate data protection and privacy into all phases of the development process, from the requirements phase to production, as it is most appropriate for the development model and the application environment.
 
 ##1.3.	Progress beyond the state-of-the-art and Innovation Potential 
 ##1.3.1.	Description of the state-of-the-art
