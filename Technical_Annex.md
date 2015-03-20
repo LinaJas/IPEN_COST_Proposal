@@ -22,43 +22,47 @@ The conception of, and level of interest in, privacy has also changed hugely wit
 
 
 
-##1.2.	Objectives 
+##1.2.	Objectives
+
+IPEN will serve as a platform for the cooperation and exchange of ideas between Data Protection Authorities (DPAs) and internet engineers. It will encourage IT specialists to develop privacy friendly solutions and to recognise the impact of their technical choices on users' privacy. As a network of privacy experts from the technical, developer and policy communities, IPEN will work on three main tasks:
+
+  - To share information about on-going initiatives and projects addressing privacy-related development needs;
+  - To identify ['use cases'](http://www.techopedia.com/definition/25813/use-case) - where tech engineers identify a series 
+    of steps that will enable them to solve a specific problem - for which privacy can be implemented at the design level.
+  - To launch projects for the development of tools and building-blocks which enable and enhance privacy.
+
 ##1.2.1.	Research Coordination Objectives
 
-The main objective is to bridge the gap between legal and technical experts to help develop the structure of the internet, and the services and applications reliant on it, to better respect user privacy and personal data.
+IPEN will launch projects for the development of tools and building-blocks which enable and enhance privacy. 
+These projects may be initiatives within Standards Development Organisations such as the ISO, W3C and IETF to help build consensus for procedures and interfaces that enhance privacy. Potential projects include:
+  - Develop compliance procedures for how organisations subject to European Data Protection regulation should respect the        DNT (Do Not Track) browser signal. Publish a document on the web that describes them, which companies can link to            declaratively in the DNT Tracking Status Resource compliance property.
+    
+  - Develop a draft standard for cryptographically signed mark-up declaring the identity of data controllers and
+    processors responsible for a web origin, with the aim of enabling user-agents to inform users of the legal identity
+    and privacy policy of controllers who may collect personal data. Introduce this draft to the relevent W3C or IETF
+    working group, and support the standards work necessary to complete it. 
 
-IPEN will work on three main tasks:
+  - Develop a draft standard for web session establishment and management by user agents, with the aim to give
+    individuals visibility of and control over authenticated and anonymous sessions. This should be synchronised with
+    existing IETF work on preventing security token export and replay attacks. Introduce this draft to the relevent W3C
+    or IETF working group, and support the standards work necessary to complete it.
+        
+  - Foster the development of protocols and standards for anonymous unlinkable and virtualised network identity. The aim
+    is to give web users control of how much identifiable information is shared. It should, for example, to be possible
+    for users to manage and convey an audience categorisation to a publishers website without being tracked, and for
+    individuals to browse the web anonymously if they wish. 
 
-  -   Provide a forum allowing the technical Internet community to interact with data protection authorities and interested      privacy researchers, so as to identify potential areas for conflict and potential areas for collaboration. The former may     occur if one community embraces a change that is problematic for other communities. The latter could involve                 identification of areas where all communities recognise the potential for aiming to meet commensurate requirements. 
-    Note - the objective here is to identify and discuss such potential conflicts and areas for collaboration - the actual       work to resolve conflicts or action collaborations is not intended to be done under the auspisces of this COST action.
-
-  - To identify ['use cases'](http://www.techopedia.com/definition/25813/use-case) - where tech engineers identify a series 
+  - Identify ['use cases'](http://www.techopedia.com/definition/25813/use-case) - where tech engineers identify a series 
     of steps that will enable them to solve a specific problem - for which privacy can be implemented at the design level.
     
 
-  - To launch projects for the development of tools and building-blocks which enable and enhance privacy. 
-    These projects may be initiatives within Standars Organisations such as the ISO, W3C and IETF to build consensus for         procedures and interfaces that enhance privacy. Potential projects include:
-      - Develop compliance procedures for how organisations subject to European Data Protection regulation should respect the         DNT (Do Not Track) browser signal. Publish a document on the web that describes them, which companies can link to            declaratively in the DNT Tracking Status Resource compliance property.
-    
-      - Develop a draft standard for cryptographically signed mark-up declaring the identity of data controllers and
-        processors responsible for a web origin, with the aim of enabling user-agents to inform users of the legal identity
-        and privacy policy of controllers who may collect personal data. Introduce this draft to the relevent W3C or IETF
-        working group, and support the standards work necessary to complete it. 
 
-      - Develop a draft standard for web session establishment and management by user agents, with the aim to give
-        individuals visibility of and control over authenticated and anonymous sessions. This should be synchronised with
-        existing IETF work on preventing security token export and replay attacks. Introduce this draft to the relevent W3C
-        or IETF working group, and support the standards work necessary to complete it.
-        
-      - Foster the development of protocols and standards for anonymous unlinkable and virtualised network identity. The aim
-        is to give web users control of how much identifiable information is shared. It should, for example, to be possible
-        for users to manage and convey an audience categorisation to a publishers website without being tracked, and for
-        individuals to browse the web anonymously if they wish. 
 
 
 
 ##1.2.2.	Capacity-building Objectives
-Text
+
+IPEN will provide a forum allowing the technical Internet community to interact with data protection authorities and interested privacy researchers, so as to identify potential areas for conflict and potential areas for collaboration. The former may occur if one community embraces a change that is problematic for other communities. The latter could involve      identification of areas where all communities recognise the potential for aiming to meet commensurate requirements. Note - the objective here is to identify and discuss such potential conflicts and areas for collaboration - the actual work to resolve conflicts or action collaborations is not intended to be done under the auspisces of this COST action.
 
 ##1.3.	Progress beyond the state-of-the-art and Innovation Potential 
 ##1.3.1.	Description of the state-of-the-art
