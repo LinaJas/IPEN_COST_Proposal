@@ -90,34 +90,34 @@ Text
 
 ##3.1.	Description of the Work Plan
 ##3.1.1.	Description of Working Groups – Provide for each WG the Objectives, Tasks, Milestones and Deliverables.
-##Standards Body Coordination and Support Working Group.
-###Objectives.
+##3.1.1.1  Standards Body Coordination and Support Working Group.
+###3.1.1.1.1  Objectives.
 Coordinate and support privacy and security enabling activities in the Standards Development Organisations.
-###Tasks.
+###3.1.1.1.2  Tasks.
 Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in the Standards Development Organisations.
 
-###Milestones
+###3.1.1.1.3  Milestones
 - Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
 - Achieve consensus support for it from European DPAs, the Article 29 Working Party and the office of the European Data   Protection Supervisor.
 
-###Deliverables
+###3.1.1.1.1.4  Deliverables
 The “Tracking  Data and User Consent Signal Compliance” document hosted and maintained on the public web.
 
-##Innovation and Research Working Group.
-###Objectives.
-###Tasks.
-###Milestones
-###Deliverables
-##Education and Outreach Working Group
-###Objectives.
-###Tasks.
-###Milestones
-###Deliverables
-##Governance, Transparency, Strategy and Funding Working Group
-###Objectives.
-###Tasks.
-###Milestones
-###Deliverables
+##3.1.1.2  Innovation and Research Working Group.
+###3.1.1.2.1  Objectives.
+###3.1.1.2.2  Tasks.
+###3.1.1.2.3  Milestones
+###3.1.1.2.4  Deliverables
+##3.1.1.3  Education and Outreach Working Group
+###3.1.1.3.1  Objectives.
+###3.1.1.3.2  Tasks.
+###3.1.1.3.3  Milestones
+###3.1.1.3.4  Deliverables
+##3.1.1.4 Governance, Transparency, Strategy and Funding Working Group
+###3.1.1.4.1  Objectives.
+###3.1.1.4.2  Tasks.
+###3.1.1.4.3  Milestones
+###3.1.1.4.4  Deliverables
 
 ##3.1.2.	GANTT Diagram 
 
