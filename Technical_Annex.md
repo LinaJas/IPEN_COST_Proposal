@@ -90,13 +90,25 @@ Text
 
 ##3.1.	Description of the Work Plan
 ##3.1.1.	Description of Working Groups – Provide for each WG the Objectives, Tasks, Milestones and Deliverables.
-Standards Body Coordination and Support Working Group.
+##Standards Body Coordination and Support Working Group.
+###Objectives.
+Coordinate and support privacy and security enabling activities in the Standards Development Organisations.
+###Tasks.
+Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in the Standards Development Organisations.
 
-Innovation and Research Working Group.
+###Milestones
+###Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
+###Achieve consensus support for it from European DPAs, the Article 29 Working Party and the office of the European Data Protection Supervisor.
 
-Education and Outreach Working Group
+###Deliverables
+The “Tracking  Data and User Consent Signal Compliance” document hosted and maintained on the public web.
 
-Governance, Transparency, Strategy and Funding Working Group
+##Innovation and Research Working Group.
+
+##Education and Outreach Working Group
+
+##Governance, Transparency, Strategy and Funding Working Group
+
 
 ##3.1.2.	GANTT Diagram 
 
