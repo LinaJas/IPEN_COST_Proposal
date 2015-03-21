@@ -104,11 +104,20 @@ Organise regular web conferencing and fate to face meetings for anyone committed
 The “Tracking  Data and User Consent Signal Compliance” document hosted and maintained on the public web.
 
 ##Innovation and Research Working Group.
-
+###Objectives.
+###Tasks.
+###Milestones
+###Deliverables
 ##Education and Outreach Working Group
-
+###Objectives.
+###Tasks.
+###Milestones
+###Deliverables
 ##Governance, Transparency, Strategy and Funding Working Group
-
+###Objectives.
+###Tasks.
+###Milestones
+###Deliverables
 
 ##3.1.2.	GANTT Diagram 
 
