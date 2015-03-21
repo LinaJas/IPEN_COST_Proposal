@@ -43,7 +43,7 @@ It will also encourage IT specialists to develop privacy friendly solutions and 
 The internet has grown from its roots in academic and Government sponsored research to become a major factor in the lives of billions of people around the world. The frenetic pace of this development has unfortunately left major components insecure against threats such as mass unwarranted surveillance and predatory commercial profiling. The lack of basic privacy protection components has led to a atmosphere where many business and technical developers do not have the necessary awareness of, and training in, the need for protection of fundamental human rights. 
 
 ##1.3.2.	Progress beyond the state-of-the-art
-Text 
+We aim to create and disseminate a body of best practices, procedures and working open source code, and push for the design and widespread implementation, of APIs and protocols that can help solve current challenges to privacy and security. Through this activity we aim to improve the understanding in the wider technical community of the reasons for protecting privacy and of the techniques and infrastructure designed to do that, and educate the other communities of the potentials and constraints of technological processes.  
 
 ##1.3.3.	Innovation in tackling the challenge
 Text
