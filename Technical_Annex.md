@@ -67,7 +67,12 @@ The IPEN action will link into ongoing privacy work in the IETF. <<details tbd>>
 
 ##2.1.	Expected Impact 
 ##2.1.1.	Short-term and long-term scientific, technological, and/or socioeconomic impacts
-Text
+
+###Short Term Impact
+A single document describing a common European wide approach to the collection and use of tracking data would give millions of companies with public facing websites legal surety. The considerable body of European privacy and data protection law would begin to be seen by individuals as a valuable asset helping to protect them from non-consensual profiling, and not just impenetrable bureaucratic verbiage. 
+
+###Long Term Impact
+In the longer term the availability and standardisation of privacy and security supporting APIs and procedures will create an environment in Europe for innovation and new business models around marketing and commerce, which no longer comes into conflict with the fundamental rights of individuals. The internet can take on its promised character to enhance democracy, build civilised values and foster a healthy and widely trusted business economy.
 
 ##2.2.	Measures to Maximise Impact
 ##2.2.1.	Plan for involving the most relevant stakeholders 
