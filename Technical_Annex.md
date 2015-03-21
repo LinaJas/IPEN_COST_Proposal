@@ -97,8 +97,8 @@ Coordinate and support privacy and security enabling activities in the Standards
 Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in the Standards Development Organisations.
 
 ###Milestones
-###Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
-###Achieve consensus support for it from European DPAs, the Article 29 Working Party and the office of the European Data Protection Supervisor.
+- Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
+- Achieve consensus support for it from European DPAs, the Article 29 Working Party and the office of the European Data   Protection Supervisor.
 
 ###Deliverables
 The “Tracking  Data and User Consent Signal Compliance” document hosted and maintained on the public web.
