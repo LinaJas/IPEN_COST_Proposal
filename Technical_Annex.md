@@ -46,7 +46,7 @@ The internet has grown from its roots in academic and Government sponsored resea
 We aim to create and disseminate a body of best practices, procedures and working open source code, and push for the design and widespread implementation, of APIs and protocols that can help solve current challenges to privacy and security. Through this activity we aim to improve the understanding in the wider technical community of the reasons for protecting privacy and of the techniques and infrastructure designed to do that, and educate the other communities of the potentials and constraints of technological processes.  
 
 ##1.3.3.	Innovation in tackling the challenge
-Text
+There is an increasing number of client-side (in browsers) protocols and APIs, which could be used as a basis to enhance online privacy. Much of the work innovating around these new technologies has often been at the behest of Online Advertising and other commercial interests aiming to exploit so-called “Big Data”, (exploitation of massive low cost collection of personal data), but many engineers and businesses wish to explore the data protection possibilities of these mechanisms. Similarly the standards making process that creates these mechanisms could be improved through the involvement of experts who are committed to improving privacy, but who up to now have often had to operate in an ad-hoc or uncoordinated way. Creating a focus for how enhanced technologies could be used to support fundamental rights will create a more diverse business environment which is more aligned with the interests of people and provide a stage for new business models.
 
 ##1.4.	Added value of networking 
 
