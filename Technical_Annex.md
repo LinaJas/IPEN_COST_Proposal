@@ -2,7 +2,7 @@
 
 ##1.1.	Challenge 
 ##1.1.1.	Description of the Challenge (Main Aim)
-Protecting fundemental rights in the online sphere is made harder than it needs by the gap of understanding between the technical, legal annd civil society communities.
+Protecting fundemental rights in the online sphere is made harder than it needs to be by the gap of understanding between technical, legal annd civil society communities.
 Many people, from different areas such as data protection authorities, academia, open source and business development, and other individuals, are committed to the finding engineering and political solutions to privacy challenges. Broadly, we can speak of the technical community (developers, those working in technical standardisation such as with the IETF, the W3C and the ISO) and the legal community (those working in regulation such as data protection authorities). While there are of course some who overlap, given the scale of the challenge, there are not enough such people and action ia needed to provide an ongoing and rich point of contact between the communities.
 
 
