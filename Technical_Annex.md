@@ -16,8 +16,8 @@ The conception of, and level of interest in, privacy has also changed hugely wit
 ##1.2.	Objectives
 ##1.2.1.	Research Coordination Objectives
 
-IPEN will launch projects for the development of tools and building-blocks which enable and enhance privacy. 
-These projects are envisioned be both initiatives within Standards Development Organisations (such as the ISO, W3C and IETF) to help build consensus for procedures and interfaces that enhance privacy, and projects to develop and assemble open source building blocks made available to the wider technical community. Potential projects include:
+IPEN will launch projects for the development of infrastructure, tools and building-blocks which enable and enhance privacy. 
+These projects are envisioned be both initiatives within Standards Development Organisations (such as the ISO, W3C and IETF) to help build consensus for procedures and interfaces that enhance privacy, and projects to develop and assemble open source building blocks made available to the wider technical community, and help develop and enhance the internet infrastrucure as a space where fundemental rights are intrinsically supported. Potential projects include:
   - Develop compliance procedures for how organisations subject to European Data Protection regulation should respect the DNT (Do Not Track) browser signal. Publish a document on the web that describes them, which companies can link to declaratively in the DNT Tracking Status Resource compliance property.
     
   - Develop a draft standard for cryptographically signed mark-up declaring the identity of data controllers and processors responsible for a web origin, with the aim of enabling user-agents to inform users of the legal identity and privacy policy of controllers who may collect personal data while they browse the web. Introduce this draft to the relevant W3C or IETF working group, and support the standards work necessary to complete it. 
