@@ -92,9 +92,9 @@ Text
 ##3.1.1.	Description of Working Groups – Provide for each WG the Objectives, Tasks, Milestones and Deliverables.
 ##3.1.1.1  Standards Body Coordination and Support Working Group.
 ###3.1.1.1.1  Objectives.
-Coordinate and support privacy and security enabling activities in the Standards Development Organisations.
+The main job of this Working Group is to coordinate and support privacy and security enabling activities in the Standards Development Organisations.
 ###3.1.1.1.2  Tasks.
-Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in the Standards Development Organisations.
+Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in international standards.
 
 ###3.1.1.1.3  Milestones
 - Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
@@ -115,6 +115,7 @@ The “Tracking  Data and User Consent Signal Compliance” document hosted and 
 ###3.1.1.3.4  Deliverables
 ##3.1.1.4 Governance, Transparency, Strategy and Funding Working Group
 ###3.1.1.4.1  Objectives.
+The main task of this group is to ensure that the operational processes  
 ###3.1.1.4.2  Tasks.
 ###3.1.1.4.3  Milestones
 ###3.1.1.4.4  Deliverables
