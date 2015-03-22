@@ -105,6 +105,7 @@ The “Tracking  Data and User Consent Signal Compliance” document hosted and 
 
 ##3.1.1.2  Innovation and Research Working Group.
 ###3.1.1.2.1  Objectives.
+
 ###3.1.1.2.2  Tasks.
 ###3.1.1.2.3  Milestones
 ###3.1.1.2.4  Deliverables
