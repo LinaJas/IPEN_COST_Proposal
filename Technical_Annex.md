@@ -94,7 +94,7 @@ Text
 ###3.1.1.1.1  Objectives.
 The main job of this Working Group is to coordinate and support privacy and security enabling activities in the Standards Development Organisations.
 ###3.1.1.1.2  Tasks.
-Organise regular web conferencing and fate to face meetings for anyone committed to building support for online privacy in international standards.
+Organise regular web conferencing and face-to-face meetings for anyone committed to building support for online privacy in international standards.
 
 ###3.1.1.1.3  Milestones
 - Agree the “Tracking  Data and User Consent Signal Compliance” document within the Working Group.
@@ -105,12 +105,15 @@ The “Tracking  Data and User Consent Signal Compliance” document hosted and 
 
 ##3.1.1.2  Innovation and Research Working Group.
 ###3.1.1.2.1  Objectives.
+This Woking Group will co-ordinate the work in academia and private business developing new tools, protocols, open source code, guidelines and infrastructure to support data protection and online privacy.
 
 ###3.1.1.2.2  Tasks.
 ###3.1.1.2.3  Milestones
 ###3.1.1.2.4  Deliverables
 ##3.1.1.3  Education and Outreach Working Group
 ###3.1.1.3.1  Objectives.
+The group will ensure that IPEN activities and Privacy-By-Design principals are communicated to the wider public and business communities. It will approach any business committed to data protection and privacy principals to encourage their involvement with IPEN. It will coordinate the supply of technical advice relevant to online privacy, data protection and security to institutions such as the European Commission and Parliament.
+
 ###3.1.1.3.2  Tasks.
 ###3.1.1.3.3  Milestones
 ###3.1.1.3.4  Deliverables
