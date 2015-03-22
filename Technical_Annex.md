@@ -105,9 +105,11 @@ The “Tracking  Data and User Consent Signal Compliance” document hosted and 
 
 ##3.1.1.2  Innovation and Research Working Group.
 ###3.1.1.2.1  Objectives.
-This Woking Group will co-ordinate the work in academia and private business developing new tools, protocols, open source code, guidelines and infrastructure to support data protection and online privacy.
+This Working Group will co-ordinate the work in academia and private business developing new tools, protocols, open source code, guidelines and infrastructure to support data protection and online privacy.
 
 ###3.1.1.2.2  Tasks.
+Organise regular web conferencing and face-to-face meetings to encourage communications between technical developers in academia and business, and other communities in civil society and the public sector also committed to data protection principles.
+
 ###3.1.1.2.3  Milestones
 ###3.1.1.2.4  Deliverables
 ##3.1.1.3  Education and Outreach Working Group
