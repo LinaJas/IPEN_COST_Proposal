@@ -3,7 +3,9 @@
 ##1.1.	Challenge 
 ##1.1.1.	Description of the Challenge (Main Aim)
 Protecting fundamental rights online is made harder than it needs to be by the gap of understanding between technical, legal annd civil society communities.
+
 Many people, from different areas such as data protection authorities, academia, open source and business development, and other individuals, are committed to finding engineering and political solutions to privacy challenges. Broadly, we can speak of the technical community (developers, researchers, those working in technical standardisation such as with the IETF, the W3C and the ISO) and the legal community (those working in regulation such as data protection authorities). While there are of course some who overlap, given the scale of the challenge, there are not enough such people and action is needed to provide an ongoing and rich point of contact between the communities.
+
 Much of the technical development work for new internet based applications and services is now carried out by business enterprises, who are naturally mainly focussed on the potential for commercial return, and in many cases this conflicts with data protection and privacy rights. Because of the societal impact of these new services it is important that democratic institutions play a role in decision making about them, but often do not have the right level of technical expertise necessary. A forum where wider society representatives and the technical community inform each other and where concerns can be can be aired would generate a better outcome for business and individuals. 
 
 ##1.1.2.	Relevance and timeliness
