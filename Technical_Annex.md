@@ -120,7 +120,7 @@ The group will ensure that IPEN activities and Privacy-By-Design principals are 
 ###3.1.1.3.2  Tasks.
 ###3.1.1.3.3  Milestones
 ###3.1.1.3.4  Deliverables
-##3.1.1.4 Governance, Transparency, Strategy and Funding Working Group
+##3.1.1.4 Governance and Transparency Working Group
 ###3.1.1.4.1  Objectives.
 The main task of this group is to ensure that the other Working Groups and the administrative function operate in line with ethical principles, operational efficiency and European law. It will consist of representatives from each Participant and Working Group as well as from the European Data Protection Supervisor’s office and the Article29 Working Party. Representatives from the European Parliament and Commission will also be invited. As far as is feasible enough members will be appointed to attain a 1:1 gender balance, with a target of least 40% of the under-represented sex, in line with the European Commission’s [“Strategy for equality between women and men 2010-2015”](http://ec.europa.eu/social/BlobServlet?docId=6568&langId=en)
 
