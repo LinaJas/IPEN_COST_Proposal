@@ -80,7 +80,16 @@ In the longer term the availability and standardisation of privacy and security 
 Text
 
 ##2.2.2.	Dissemination and/or Exploitation Plan 
-Text
+To disseminate output and research results produced by the IPEN initiative the following activities are foreseen:
+Organisation of an annual conference with a support of the European Data Protection Authorities; 
+Set up of social media campaign communicating milestones and accomplishments; 
+Participation in academic workshops/conferences addressing privacy by design issues;
+Participation to policy oriented workshop (e.g., CPDP - http://www.cpdpconferences.org0, CFP -
+http://www.cfp.org/, Freedom not Fear - https://freedomnotfear.org);
+Collaboration with industry partners.  
+Dissemination activities will include targeted actions such as outreach to policy makers at the European level (e.g., DG justice, Article 29 WG party, EDPS, national data protection authorities).
+The IPEN initiative will pay a particular attention to Small and Medium Size Enterprises (SMEs). SMEs play a crucial role in the digital economy and IT innovation, yet usually their voice in not echoed in initiatives addressing privacy and data security issues at the EU level. Therefore, it is important not only to communicate output produced by the IPEN to SMEs but also to engage with them into a dialogue which would allow to identify their needs.  
+
 
 ##2.3.	Potential for Innovation versus Risk Level 
 ##2.3.1.	Potential for scientific, technological and/or socioeconomic innovation breakthroughs
