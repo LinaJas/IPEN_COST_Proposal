@@ -59,11 +59,9 @@ The main added value here is to provide a rich and ongoing point of contact betw
 
 ##1.4.2.	In relation to existing efforts at European and/or international level
 
-###IETF
+Many disparate activities have been endeavoured to design and develop Privacy Enhancing Technologies. Recognizing a need for coordination among these activities, several initiatives have started working on standardizing a catalogue of such technologies; however, they have fell short of achieving that. ISO and IEC through the group ISO/IEC JTC 1/SC 27/WG 5 focus on privacy frameworks and management (ISO 29100, 29134, 29151), but they have not yet gone down to the level of specific techniques. Other initiatives by e.g. OASIS (PbD-SE Privacy by Design for Software Engineering, PMRM Privacy Management Reference Model), W3C (Privacy Interest Group - PING), IETF (RFC 6973 and a discussion list) and the privacypatterns.eu portal have not yet provided mature enough results. In a specifically European context, we must remark as well the current works to develop a privacy engineering methodology carried out by FP7 CSA PRIPARE and the soon-to-be issued EC mandate to establish European Standards on PbD, which will be developed by CEN/CENELEC Joint Working Group 8 on ‘Privacy management in products and services’.
 
-The IPEN action will link into ongoing privacy work in the IETF. <<details tbd>>
-
-
+All these initiatives have in common a geographic and organizational dispersion of their members, which we consider that has prevented them from achieving further and faster results. The community is in need of an action such as IPEN that will help grease the network of individuals so that they foster a common vision and eventually achieve the above mentioned objectives. Needless to say that IPEN needs to be aligned with those other initiatives, so as to avoid the risk of fragmentation. However, this risk will not materialize; furthermore, IPEN results are guaranteed to be integrated within those initiatives, because all of them count with IPEN proposers among their members.
 
 
 #2.	IMPACT
