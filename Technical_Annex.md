@@ -77,10 +77,24 @@ In the longer term the availability and standardisation of privacy and security 
 
 ##2.2.	Measures to Maximise Impact
 ##2.2.1.	Plan for involving the most relevant stakeholders 
-Text
+Internet governance is shaped by a wide range of stakeholders that include governments, privacy enforcement authorities, private sector, self-regulatory bodies, civil society organisations, and academia. Therefore, engineering privacy requires involvement of these diverse stakeholders as well.  Prior to involving stakeholders, the IPEN initiative will define the clear scope and objectives of the initiative. In certain circumstances the IPEN may indicate material stakeholders that could help to achieve foreseen objectives (e.g., technical expertise is required to review suggestions for information exchange protocols). The IPEN initiative would seek to involve stakeholders by the following activities:
+Providing a possibility to comment on draft versions of documents and other output; in case of substantial contributions the IPEN initiative would indicate the contributor;
+Ensuring open participation in an annual IPEN conference which would be organised support of the European Data Protection Authorities;
+Providing contributions assisting regulators in the adoption of legislative acts as well as technical standards further specifying the criteria and measures for the data protection by design principles. 
+
 
 ##2.2.2.	Dissemination and/or Exploitation Plan 
-Text
+To disseminate output and research results produced by the IPEN initiative the following activities would be foreseen:
+Organisation of an annual conference with a support of the European Data Protection Authorities; 
+Set up of a social media campaign communicating milestones and accomplishments; 
+Participation in academic workshops/conferences addressing privacy by design issues;
+Participation in policy oriented workshop (e.g., CPDP - http://www.cpdpconferences.org0, CFP -
+http://www.cfp.org/, Freedom not Fear - https://freedomnotfear.org);
+Publishing research on the open web or storing it in the IPEN’s online depository;
+Collaboration with industry partners.  
+Dissemination activities will also include targeted actions such as outreach to policy makers at the European level (e.g., DG justice, Article 29 WG party, EDPS, national data protection authorities).
+The IPEN initiative will pay a particular attention to Small and Medium Size enterprises (SMEs). SMEs play a crucial role in the digital economy and IT innovation, yet usually their voice in not echoed in initiatives addressing privacy and data security issues at the EU level. Therefore, it is important not only to communicate output produced by the IPEN to SMEs but also to engage with them into a dialogue which would allow to identify their needs.  
+
 
 ##2.3.	Potential for Innovation versus Risk Level 
 ##2.3.1.	Potential for scientific, technological and/or socioeconomic innovation breakthroughs
